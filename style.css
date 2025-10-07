@@ -4,7 +4,7 @@ body {
    color: #e6e673;
 }
 .kartu-profil {
-    widht: 800px;
+    width: 600px;
     margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan*/
     padding: 40px;
     background-color: white;
